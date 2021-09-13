@@ -1,0 +1,7 @@
+C:\Users\Marvi\Documents\GitHub\Parcial\Parcial\Parcial\bin\Debug\Parcial.exe.config
+C:\Users\Marvi\Documents\GitHub\Parcial\Parcial\Parcial\bin\Debug\Parcial.exe
+C:\Users\Marvi\Documents\GitHub\Parcial\Parcial\Parcial\bin\Debug\Parcial.pdb
+C:\Users\Marvi\Documents\GitHub\Parcial\Parcial\Parcial\obj\Debug\Parcial.csproj.AssemblyReference.cache
+C:\Users\Marvi\Documents\GitHub\Parcial\Parcial\Parcial\obj\Debug\Parcial.csproj.CoreCompileInputs.cache
+C:\Users\Marvi\Documents\GitHub\Parcial\Parcial\Parcial\obj\Debug\Parcial.exe
+C:\Users\Marvi\Documents\GitHub\Parcial\Parcial\Parcial\obj\Debug\Parcial.pdb
