@@ -8,9 +8,10 @@ using System.Threading.Tasks;
 namespace Parcial.Negocio
 {
     class NClsUsuario
-    {public string ACCESO(ClsUsuario usuario)
+    {
+        public string ACCESO(ClsUsuario usuario)
         {
-
+           
             if (usuario.Nombre == "Marvin" || usuario.Contra == 123) 
 
             {
