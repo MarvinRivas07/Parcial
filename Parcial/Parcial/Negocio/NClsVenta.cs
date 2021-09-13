@@ -9,10 +9,11 @@ namespace Parcial.Negocio
 {
     class NClsVenta
     {
-        public string COBRO(ClsVenta venta)
+        internal string COBRO(ClsVenta venta)
+
         {
             return "";
-            
+           
         }
 
         
